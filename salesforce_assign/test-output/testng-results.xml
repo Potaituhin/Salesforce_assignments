@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-17T20:33:19 IST" name="Default suite" finished-at="2022-05-17T20:34:26 IST" duration-ms="66591">
+    <groups>
+    </groups>
+    <test started-at="2022-05-17T20:33:19 IST" name="Default test" finished-at="2022-05-17T20:34:26 IST" duration-ms="66591">
+      <class name="salesforce_assignment.Testng_createopp_neg">
+        <test-method signature="Test()[pri:0, instance:salesforce_assignment.Testng_createopp_neg@21282ed8]" started-at="2022-05-17T20:33:19 IST" name="Test" finished-at="2022-05-17T20:34:26 IST" duration-ms="66561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="AfterUsingTest()[pri:0, instance:salesforce_assignment.Testng_createopp_neg@21282ed8]" started-at="2022-05-17T20:34:26 IST" name="AfterUsingTest" finished-at="2022-05-17T20:34:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterUsingTest -->
+      </class> <!-- salesforce_assignment.Testng_createopp_neg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
